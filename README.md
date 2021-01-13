@@ -1,5 +1,8 @@
 # CEG2410-Project1
 
+- Name:
+- Email: 
+
 1. What is your Discord username?
 
 2. What is your GitHub username?
